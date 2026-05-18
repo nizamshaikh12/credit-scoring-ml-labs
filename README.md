@@ -1,13 +1,13 @@
 # Credit Scoring ML Labs
 
-Collection of two mini-projects exploring credit risk modelling with Kaggle datasets. The notebooks walk through end-to-end workflows for building and evaluating models that predict credit default or credit score from applicant and account features.
+Exploring credit risk modelling with Kaggle datasets. The notebooks walk through end-to-end workflows for building and evaluating models that predict credit default or credit score from applicant and account features.
 
 ## Project Overview
 
 This repo contains two related labs:
 
 1. **Credit Score Modelling (Conor Sully dataset)**  
-   Uses the `credit_score.csv` dataset to model both:
+   Uses the `credit_score.csv` dataset from kaggle to model both:
    - `CREDIT_SCORE` as a regression target, and
    - `DEFAULT` as a classification target.
 
